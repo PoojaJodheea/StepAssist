@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StepAssist</string>
+    <string name="beach_name">Beach Name</string>
+    <string name="facilities_info">Facilities: Disabled Parking, Wheelchair Ramp</string>
+    <string name="reviews_info">Reviews: 4.5/5</string>
+    <string name="location_image_description">Image of the beach location</string>
+    <string name="location_image_desc" />
+    <string name="reviews">Reviews</string>
+</resources>

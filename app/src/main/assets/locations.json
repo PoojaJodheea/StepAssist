@@ -1,0 +1,240 @@
+[
+  {
+    "name": "City Hospital",
+    "description": "24/7 emergency care",
+    "latitude": -20.1610,
+    "longitude": 57.5013,
+    "icon": "hospital",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPnCNn4SP7Qc9rFThAeOaz7MLbk0ub9HIdvr8pk=s1360-w1360-h1020",
+    "facilities": ["ramp",   "park",   "wc"]
+  },
+    {
+      "name": "Dr A.G. Jeetoo Hospital",
+      "description": "Public hospital",
+      "latitude": -20.1600,
+      "longitude": 57.5010,
+      "icon": "hospital",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-4MQ1G8RHpaxG9ziFWC1dswcYXjh5LRIoCr1YN_xJmAzJxU5VR43qu2dF0xT-qMP6hkY3RrLdtYWUgl3FbuOHWZoG2nBO0FXSlHWi2W2-IrsHAykbdZkpw9plFkSoHu0xJiB0e7w=s1360-w1360-h1020",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+    {
+      "name": "Victoria Hospital",
+      "description": "Public hospital situated in Candos, Quatre Bornes.",
+      "latitude": -20.2630,
+      "longitude": 57.4790,
+      "icon": "hospital",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipObRhNzVlwMitx0qFO92QGKKhRBn39NQC8RLLzw=s1360-w1360-h1020",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+    {
+      "name": "Sir Seewoosagur Ramgoolam National Hospital",
+      "description": "Public hospital in Pamplemousses with specialized units.",
+      "latitude": -20.1110,
+      "longitude": 57.5750,
+      "icon": "hospital",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ghJoJVOKTiug_9F0_0KHmDgZUk5TdsRE6g&s",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+    {
+      "name": "Jawaharlal Nehru Hospital",
+      "description": "Regional hospital",
+      "latitude": -20.4000,
+      "longitude": 57.6100,
+      "icon": "hospital",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipM-ogC2oJ5-BJZ-TVoTaTgU6JjfmjoQir0mC_NQ=s1360-w1360-h1020",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+    {
+      "name": "Dr Bruno Cheong Medical Centre",
+      "description": "Public hospital located in Centre de Flacq",
+      "latitude": -20.1890,
+      "longitude": 57.7280,
+      "icon": "hospital",
+      "image": "https://scontent.fmru2-1.fna.fbcdn.net/v/t39.30808-6/484869596_657779163614459_8120582920171749664_n.jpg?stp=dst-jpg_p526x395_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=R4r47oy4DSIQ7kNvwHIIe0L&_nc_oc=AdlnwNuY91nWwBSWkVh_L2qOPGuFFmcHqXgY7RUtaRVxEYVIxjhcKAXIx534TI3xENY&_nc_zt=23&_nc_ht=scontent.fmru2-1.fna&_nc_gid=yQBqqz0B4E5Ki1LkGEntLw&oh=00_AfE_FRqtgdKYuTPMh0JK_pVpZqw58Qas9fny-E0m-3xHow&oe=6811807A",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+    {
+      "name": "Brown Sequard Mental Health Hospital",
+      "description": "Specialized psychiatric hospital in Beau Bassin.",
+      "latitude": -20.2320,
+      "longitude": 57.4700,
+      "icon": "hospital",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9O3yYX72zPJ0B0-q5Nfk5NoYfQ3fwf8Zv1bb-9p1mzZqQdGuSvt6f1Lc-moXkM-Q-ko4cWvC0fh3qBq4wZ2wevrXCZVLifI628q2QXX4XeE-xOppGhI8_lNj0WwiSktPog4W3R=s1360-w1360-h1020",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+    {
+      "name": "ENT Hospital",
+      "description": "Specialized hospital for ear, nose, and throat treatments in Vacoas.",
+      "latitude": -20.3000,
+      "longitude": 57.4800,
+      "icon": "hospital",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8ZTefISHz_FCuAepQsBvKBSb3GZA2h72RweJxAPeDeTzpobxgMBSHnCQY-N9k0z5aZxsCv2495VKb1lWfXb3v-tvO7p6YkuCrfflke8SPqNHlCKbHG6DX2zGaZqofrJVqllNTK2w=s1360-w1360-h1020",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+
+    {
+      "name": "Wellkin Hospital",
+      "description": "Private multi-specialty hospital in Moka.  \n\uD83C\uDD7F\uFE0F ♿ \uD83D\uDEBB    ",
+      "latitude": -20.2330,
+      "longitude": 57.4950,
+      "icon": "hospital",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPCorFNkjWTmYqFNImA-eKMIU1OXohdMMa--s3T=s1360-w1360-h1020",
+      "facilities": ["ramp",   "park",   "wc"]
+    },
+    {
+      "name": "Clinique Darné",
+      "description": "Private clinic offering various medical services in Floréal.",
+      "latitude": -20.3000,
+      "longitude": 57.4800,
+      "icon": "hospital",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOsiHetCQJZwAkkdD6ghu6VWhTCQG30JP6YAwwG=s1360-w1360-h1020",
+      "facilities": ["park",   "wc"]
+    },
+
+    {
+      "name": "Victoria Bus Station –(Port Louis)",
+      "description":"Low‑floor buses available",
+      "latitude": -20.16155,
+      "longitude": 57.50140,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair",   "wc"]
+    },
+    {
+      "name": "Immigration Square (Port Louis Waterfront)",
+      "description": "Low‑floor buses available. Even paving and curb ramp present.",
+      "latitude": -20.15654,
+      "longitude": 57.50782,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair"]
+    },
+    {
+      "name": "Bus Stop",
+      "description": "Low‑floor buses available.",
+      "latitude": -20.26372,
+      "longitude": 57.47896,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair"]
+    },
+    {
+      "name": "Bus Stop-Rose‑Hill Central (near Plaza)",
+      "description": "Low‑floor buses available. Boarding ramps and wide platform.",
+      "latitude": -20.23349,
+      "longitude": 57.47166,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair",   "wc"]
+    },
+    {
+      "name": "Bus Stop (Curepipe)",
+      "description": "Low‑floor buses available.Kerb cut and handrails installed.",
+      "latitude": -20.31627,
+      "longitude": 57.51612,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair"]
+    },
+    {
+      "name": "Vacoas Bus Depot",
+      "description": "Accessible boarding bay with lowered kerb. Low‑floor buses available.",
+      "latitude": -20.29711,
+      "longitude": 57.48854,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair",   "park"]
+    },
+    {
+      "name": "Mahébourg Waterfront Terminal",
+      "description": "Low‑floor buses available",
+      "latitude": -20.40925,
+      "longitude": 57.70318,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair",   "wc",   "park"]
+    },
+    {
+      "name": "Bus Stop-Rivière du Rempart (District Council)",
+      "description": "",
+      "latitude": -20.04431,
+      "longitude": 57.63700,
+      "icon": "bus",
+      "image": "",
+      "facilities": ["ramp",   "wheelchair"]
+    },
+
+  {
+    "name": "Public Parking - Port Louis",
+    "description": "Accessible parking available",
+    "latitude": -20.1605,
+    "longitude": 57.4975,
+    "icon": "parking",
+    "image": "",
+    "facilities": ["ramp",   "wheelchair"]
+  },
+  {
+    "name": "Flic en Flac Beach",
+    "description": "Wheelchair accessible area",
+    "latitude": -20.2750,
+    "longitude": 57.3615,
+    "icon": "beach",
+    "image": "",
+    "facilities": ["ramp",   "wheelchair"]
+  },
+  {
+    "name": "Public Toilet",
+    "description": "Accessible toilet",
+    "latitude": -20.1599,
+    "longitude": 57.5021,
+    "icon": "toilet",
+    "image": "",
+    "facilities": ["ramp",   "wheelchair",   "wc"]
+  },
+    {
+      "name": "Winners Cascavelle",
+      "description": "",
+      "latitude": -20.2820,
+      "longitude": 57.4065,
+      "icon": "supermarket",
+      "image": "w1.png",
+      "facilities": ["ramp",   "wheelchair"]
+    },
+    {
+      "name": "Super U Grand Baie",
+      "description": "",
+      "latitude": -20.0150,
+      "longitude": 57.5800,
+      "icon": "supermarket",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOCelyCv3lfdwEoKkM2Jujm_WGNMXaX_4-F7TbF=s1360-w1360-h1020",
+      "facilities": ["ramp",   "wheelchair",   "wc",   "park",   "elevator"]
+    },
+    {
+      "name": "Intermart Bagatelle",
+      "description": "",
+      "latitude": -20.2300,
+      "longitude": 57.4950,
+      "icon": "supermarket",
+      "image": "w2.png",
+      "facilities": ["ramp",   "wheelchair",   "wc",   "park"]
+    },
+    {
+      "name": "Jumbo Phoenix",
+      "description": "",
+      "latitude": -20.2630,
+      "longitude": 57.4800,
+      "icon": "supermarket",
+      "image": "https://scontent.fmru2-1.fna.fbcdn.net/v/t39.30808-6/475746119_3988537834760075_7709752857976900570_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=EtS4N9midjsQ7kNvwGf59au&_nc_oc=AdlO7fs45lEtFwG5dCdG8Yz15PJMURBuyrIAx2m_aALj4eZ5zDNcwe9osFB3O51X38c&_nc_zt=23&_nc_ht=scontent.fmru2-1.fna&_nc_gid=d9WdqLbfLVP8D24qDe0g7w&oh=00_AfG6WHvVGt3eNGxAX2_rAUefYFxlj3md5b7iKWDd55v34w&oe=6811A178",
+      "facilities": ["ramp",   "wheelchair",    "park"]
+    },
+    {
+      "name": "Save Mart Lallmatie",
+      "description": "",
+      "latitude": -20.2000,
+      "longitude": 57.6400,
+      "icon": "supermarket",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPVZPHAWbQewam6SZm2kWbBgp1ByVcjBg95UgZw=s1360-w1360-h1020",
+      "facilities": ["ramp", "wheelchair"]
+    }
+  ]
+

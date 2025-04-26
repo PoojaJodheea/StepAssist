@@ -1,0 +1,71 @@
+{
+  "locations": [
+    {
+      "name": "Victoria Hospital",
+      "type": "hospital",
+      "latitude": -20.2437,
+      "longitude": 57.4828,
+      "description": "A major public hospital offering a range of medical services.",
+      "icon": "hospital",
+      "image": "url_to_victoria_hospital_image",
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Jane Doe",
+          "comment": "Received excellent care during my stay.",
+          "rating": 5
+        },
+        {
+          "user": "John Smith",
+          "comment": "Staff were attentive but the waiting time was long.",
+          "rating": 3.5
+        }
+      ]
+    },
+    {
+      "name": "Super U Grand Baie",
+      "type": "supermarket",
+      "latitude": -20.0151,
+      "longitude": 57.5802,
+      "description": "A large supermarket offering a wide range of products.",
+      "icon": "supermarket",
+      "image": "url_to_super_u_image",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "Alice Brown",
+          "comment": "Great selection and friendly staff.",
+          "rating": 5
+        },
+        {
+          "user": "Bob White",
+          "comment": "Prices are reasonable and the store is clean.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Mont Choisy Beach",
+      "type": "beach",
+      "latitude": -20.0056,
+      "longitude": 57.5518,
+      "description": "A popular beach known for its clear waters and white sands.",
+      "icon": "beach",
+      "image": "url_to_mont_choisy_beach_image",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "Charlie Green",
+          "comment": "Beautiful beach with stunning sunsets.",
+          "rating": 5
+        },
+        {
+          "user": "Diana King",
+          "comment": "Can get crowded during weekends.",
+          "rating": 4.5
+        }
+      ]
+    }
+
+  ]
+}

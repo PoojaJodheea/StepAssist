@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="location_name" type="id" />
+    <item name="location_description" type="id" />
+    <item name="location_rating" type="id" />
+    <item name="reviews_header" type="id" />
+    <item name="reviews_list" type="id" />
+</resources>

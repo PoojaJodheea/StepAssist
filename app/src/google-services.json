@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38571338225",
+    "project_id": "mobileapp-0ae88fe6",
+    "storage_bucket": "mobileapp-0ae88fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38571338225:android:cd29946f8f0bc022b13c50",
+        "android_client_info": {
+          "package_name": "com.example.stepassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LthoYOwI0G8uUCSqZseGrQH8ofIElss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

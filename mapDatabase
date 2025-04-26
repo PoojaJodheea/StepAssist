@@ -1,0 +1,11 @@
+{
+  "hospitals": {
+    "hospital_1": {
+      "name": "Sir Seewoosagur Ramgoolam National Hospital",
+      "latitude": -20.248402,
+      "longitude": 57.489797,
+      "imageUrl": "https://example.com/hospital1.jpg",
+      "reviews": [
+        {"user": "John", "rating": 4, "comment": "Great service."}
+      ],
+      "facilities": ["wheelchair ramp", "accessible toilets"]
