@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/review_section"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="16dp">
+
+    <!-- Prompt -->
+    <TextView
+        android:id="@+id/review_prompt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rate the facilities"
+        android:textStyle="bold"
+        android:layout_marginBottom="4dp" />
+
+    <!-- RatingBar -->
+    <RatingBar
+        android:id="@+id/user_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="1.0"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Review Input -->
+    <EditText
+        android:id="@+id/user_review"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Write your review here"
+        android:minLines="2"
+        android:gravity="top"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Submit Button -->
+    <Button
+        android:id="@+id/submit_review"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit Review"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Reviews Header -->
+    <TextView
+        android:id="@+id/reviews_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/user_reviews"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Reviews Container -->
+    <LinearLayout
+        android:id="@+id/reviews_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+</LinearLayout>
