@@ -235,6 +235,87 @@
       "icon": "supermarket",
       "image": "https://lh3.googleusercontent.com/p/AF1QipPVZPHAWbQewam6SZm2kWbBgp1ByVcjBg95UgZw=s1360-w1360-h1020",
       "facilities": ["ramp", "wheelchair"]
-    }
+    },
+  {
+    "name": "Le Souffleur Viewpoint",
+    "description": "Scenic cliff viewpoint with accessible parking and paved paths.",
+    "latitude": -20.51542,
+    "longitude": 57.56430,
+    "icon": "viewpoint",
+    "image": "",
+    "facilities": ["parking", "ramp"]
+  },
+  {
+    "name": "Gris Gris Beach",
+    "description": "Cliffside beach with partial wheelchair access at the viewpoint.",
+    "latitude": -20.53163,
+    "longitude": 57.52824,
+    "icon": "beach",
+    "image": "",
+    "facilities": ["parking", "wheelchair"]
+  },
+  {
+    "name": "Rochester Falls",
+    "description": "Popular natural site. Access not suitable for wheelchairs.",
+    "latitude": -20.48797,
+    "longitude": 57.56175,
+    "icon": "nature",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "La Vanille Nature Park",
+    "description": "Accessible nature park with ramps, restrooms, and restaurant.",
+    "latitude": -20.48120,
+    "longitude": 57.51980,
+    "icon": "park",
+    "image": "",
+    "facilities": ["parking", "ramp", "wheelchair", "restroom"]
+  },
+  {
+    "name": "Blue Bay Marine Park",
+    "description": "Marine reserve with beach access mat and assisted boat rides.",
+    "latitude": -20.44233,
+    "longitude": 57.71491,
+    "icon": "beach",
+    "image": "",
+    "facilities": ["parking", "ramp", "restroom", "wheelchair"]
+  },
+  {
+    "name": "Mahebourg Waterfront",
+    "description": "Flat walkway with wide paving and accessible toilets nearby.",
+    "latitude": -20.41087,
+    "longitude": 57.70703,
+    "icon": "waterfront",
+    "image": "",
+    "facilities": ["parking", "ramp", "restroom", "wheelchair"]
+  },
+  {
+    "name": "Mahebourg Market",
+    "description": "Market with partial accessibility and flat street access.",
+    "latitude": -20.40854,
+    "longitude": 57.70421,
+    "icon": "market",
+    "image": "",
+    "facilities": ["ramp", "wheelchair"]
+  },
+  {
+    "name": "Pointe d’Esny Public Beach",
+    "description": "Beautiful public beach with limited wheelchair access.",
+    "latitude": -20.42940,
+    "longitude": 57.72276,
+    "icon": "beach",
+    "image": "",
+    "facilities": ["parking"]
+  },
+  {
+    "name": "Frederik Hendrik Museum",
+    "description": "Historical site with ramp access and accessible restrooms.",
+    "latitude": -20.41938,
+    "longitude": 57.72977,
+    "icon": "museum",
+    "image": "",
+    "facilities": ["parking", "ramp", "restroom", "wheelchair"]
+  }
   ]
 

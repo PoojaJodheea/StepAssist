@@ -1,9 +1,22 @@
 <resources>
+    <!-- App Name -->
     <string name="app_name">StepAssist</string>
+
+    <!-- Location Details -->
     <string name="beach_name">Beach Name</string>
     <string name="facilities_info">Facilities: Disabled Parking, Wheelchair Ramp</string>
     <string name="reviews_info">Reviews: 4.5/5</string>
     <string name="location_image_description">Image of the beach location</string>
-    <string name="location_image_desc" />
+    <string name="location_image_desc">Image of the location</string>
+    <string name="location_name_placeholder">Location Name</string>
+
+    <!-- Review Section -->
     <string name="reviews">Reviews</string>
+    <string name="rating_prompt">Please rate the facilities of this location</string>
+    <string name="write_review">Write your review</string>
+    <string name="review_hint">Your thoughts…</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="user_reviews">User Reviews</string>
 </resources>
