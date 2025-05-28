@@ -316,6 +316,141 @@
     "icon": "museum",
     "image": "",
     "facilities": ["parking", "ramp", "restroom", "wheelchair"]
+  },
+  {
+    "name": "Surinam Bypass (Near Souillac)",
+    "description": "Narrow and broken road edges, especially near the canal.",
+    "latitude": -20.50973,
+    "longitude": 57.51765,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Road to Gris Gris Viewpoint",
+    "description": "Potholes and unpaved shoulders leading to the viewpoint.",
+    "latitude": -20.53128,
+    "longitude": 57.53010,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Le Bouchon Public Beach Access Road",
+    "description": "Unmaintained sandy road with potholes and uneven surface.",
+    "latitude": -20.44560,
+    "longitude": 57.70721,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Union Ducray Road (Plaine Magnien)",
+    "description": "Cracked pavement and uneven sidewalks with limited lighting.",
+    "latitude": -20.42641,
+    "longitude": 57.67845,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "La Flora Link Road (Towards Tyack)",
+    "description": "Road surface damage due to erosion; uneven tarmac.",
+    "latitude": -20.42912,
+    "longitude": 57.56327,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "St. Aubin Estate Entrance Road",
+    "description": "Broken gravel road entrance, difficult for wheelchairs.",
+    "latitude": -20.47817,
+    "longitude": 57.55273,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Bamboo Road (Mahebourg outskirts)",
+    "description": "Eroded road shoulders and uneven tiling near residential areas.",
+    "latitude": -20.41185,
+    "longitude": 57.69438,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Triolet Main Road (Near Bus Station)",
+    "description": "Uneven pavements with frequent potholes and no ramps.",
+    "latitude": -20.05798,
+    "longitude": 57.54523,
+    "icon": "broken_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Goodlands Town Centre",
+    "description": "Multiple cracked pavements; difficult for wheelchair users.",
+    "latitude": -20.03564,
+    "longitude": 57.64325,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Rose Hill Backstreets (Near Plaza Theatre)",
+    "description": "Old stone pavements with uneven sections and no curb ramps.",
+    "latitude": -20.23419,
+    "longitude": 57.46522,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "St Jean Road (Quatre Bornes – Near Sodnac)",
+    "description": "Potholes and narrow sidewalks with limited accessibility.",
+    "latitude": -20.26310,
+    "longitude": 57.47476,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Port Louis Chinatown",
+    "description": "Beautiful but uneven stone paving with steps in some areas.",
+    "latitude": -20.16214,
+    "longitude": 57.50423,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Pamplemousses Main Road",
+    "description": "Surface cracks and rough patches on sidewalks and road edges.",
+    "latitude": -20.10592,
+    "longitude": 57.57267,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Roche Bois (Residential Zone)",
+    "description": "Patchy sidewalks and broken concrete slabs along roadside.",
+    "latitude": -20.14485,
+    "longitude": 57.50501,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
+  },
+  {
+    "name": "Poste Lafayette Coastal Road",
+    "description": "Road surface worn with eroded sidewalk edges in parts.",
+    "latitude": -20.10156,
+    "longitude": 57.75112,
+    "icon": "damaged_road",
+    "image": "",
+    "facilities": []
   }
   ]
 
