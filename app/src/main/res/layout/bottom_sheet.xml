@@ -82,7 +82,8 @@
             android:layout_marginBottom="8dp"
             android:background="@android:drawable/editbox_background_normal"
             android:importantForAutofill="yes"
-            android:textColor="#FFFFFF"
+            android:textColor="@android:color/black"
+            android:textColorHint="@android:color/black"
           />
 
         <!-- RatingBar -->
